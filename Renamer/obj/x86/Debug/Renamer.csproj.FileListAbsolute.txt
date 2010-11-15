@@ -1,9 +1,0 @@
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\bin\Debug\Renamer.exe
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\bin\Debug\Renamer.pdb
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\Renamer.Form1.resources
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\Renamer.Properties.Resources.resources
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\GenerateResource.read.1.tlog
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\GenerateResource.write.1.tlog
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\Renamer.exe
-c:\users\tanja\documents\visual studio 2010\Projects\Renamer\Renamer\obj\x86\Debug\Renamer.pdb
